@@ -1,0 +1,11 @@
+.user-shopping-cart {
+  color: gold;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.user-shopping-cart li a:hover {
+  cursor: pointer;
+  color: gold;
+}

@@ -1,0 +1,12 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding: 10px 20px;
+  opacity: 100%;
+}
+
+.navbar:hover {
+  border: 1px solid gold;
+}

@@ -1,0 +1,10 @@
+.product-details {
+  text-align: center;
+  margin: 15px;
+}
+
+#product-detail-image {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+}
